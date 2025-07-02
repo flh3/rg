@@ -28,7 +28,7 @@ authors: []
 tags: []
 
 # Is this a featured talk? (true/false)
-featured: false
+featured: true
 
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
@@ -54,5 +54,9 @@ slides:
 projects:
 ---
 
-The slides can be viewed here: 
+The pdf of the published manuscript is available [here](https://www.emerald.com/insight/content/doi/10.1108/jme-11-2023-0123/full/html).
+
+Edwards, E.C. (2025), "Applying a racial lens to measures of school safety to examine Black youth perceptions and outcomes", Journal for Multicultural Education, Vol. ahead-of-print No. ahead-of-print. https://doi.org/10.1108/JME-11-2023-0123
+
+
 
