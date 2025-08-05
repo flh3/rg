@@ -1,6 +1,6 @@
 ---
 title: Latest News
-
+comments: true
 # Listing view
 view: compact
 

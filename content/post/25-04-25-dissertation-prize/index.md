@@ -1,6 +1,7 @@
 ---
 title: 2025 SC3 Dissertation Award Winner
 date: 2025-04-25
+comments: true
 ---
 
 🎉 Congratulations to Dr. Kate R. Watson for winning the 2025 Outstanding Dissertation Award in the field of School Climate

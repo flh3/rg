@@ -86,10 +86,10 @@ features:
     commento:
       url: ''
     giscus:
-      repo: ''
-      repo_id: ''
-      category: ''
-      category_id: ''
+      repo: 'flh3/rg'
+      repo_id: 'R_kgDOOik8YQ'
+      category: 'General'
+      category_id: 'DIC_kwDOOik8Yc4Ct0Mg'
   search:
     provider: wowchemy
     algolia:
