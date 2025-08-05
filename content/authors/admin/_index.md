@@ -10,7 +10,7 @@ last_name: Huang
 superuser: true
 
 # Role/position
-role: Professor / SIG Chair & Program Chair
+role: Professor / SIG Program Chair
 
 # Organizations/Affiliations
 organizations:

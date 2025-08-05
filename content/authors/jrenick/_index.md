@@ -14,11 +14,11 @@ authors:
 superuser: false
 
 # Role/position
-role: Assistant Professor / SIG Secretary & Treasurer
+role: Assistant Professor / SIG Chair
 
 # Organizations/Affiliations
 organizations:
-  - name: University of Memphis
+  - name: Michigan State University
     url: 'https://www.jenniferrenick.com/'
 
 # Short bio (displayed in user profile at end of posts)
@@ -45,7 +45,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:jrenick@memphis.edu'
+    link: 'renickj1@msu.edu'
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?hl=en&user=tSlIatUAAAAJ
@@ -65,4 +65,4 @@ user_groups:
   - SIGLeadership
 ---
 
-Jennifer Renick’s research is focused on the intersection of community, developmental, and educational psychology. Her research interests include school climate and sense of school belonging, specifically how to improve school climate and connection for historically underserved adolescents. Another area of her research includes best practices for ethical social science research, considering different community based and participatory approaches. She is a community-engaged researcher, with prior experience facilitating research-practice partnerships with both schools and educational nonprofit organizations, and conducting youth-participatory action research. 
+Jennifer Renick’s research is focused on the intersection of community, developmental, and educational psychology. Her research interests include school climate and sense of school belonging, specifically how to improve school climate and connection for historically underserved adolescents. Another area of her research includes best practices for ethical social science research, considering different community based and participatory approaches. She is a community-engaged researcher, with prior experience facilitating research-practice partnerships with both schools and educational nonprofit organizations, and conducting youth-participatory action research.
