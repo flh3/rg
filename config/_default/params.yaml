@@ -79,7 +79,7 @@ features:
     gravatar: false
     shape: circle
   comment:
-    provider: ''
+    provider: 'giscus'
     disqus:
       shortname: ''
       show_count: true
@@ -90,6 +90,13 @@ features:
       repo_id: 'R_kgDOOik8YQ'
       category: 'General'
       category_id: 'DIC_kwDOOik8Yc4Ct0Mg'
+      mapping: pathname
+      strict: 0
+      reactions_enabled: 1
+      emit_metadata: 0
+      input_position: bottom
+      theme: preferred_color_scheme
+      lang: en
   search:
     provider: wowchemy
     algolia:

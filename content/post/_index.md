@@ -1,6 +1,6 @@
 ---
 title: Latest News
-comments: true
+
 # Listing view
 view: compact
 
@@ -8,4 +8,5 @@ view: compact
 banner:
   caption: ''
   image: ''
+comments: true
 ---
