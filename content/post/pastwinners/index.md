@@ -3,6 +3,7 @@ title: Past dissertation prize winners
 date: 2024-12-01
 image:
   focal_point: 'top'
+comments: true
 ---
 
 ![banner](banner.png)

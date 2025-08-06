@@ -3,6 +3,7 @@ title: 'Centering Black Youth to Redefine & Measure School Safety'
 
 event: Webinar
 event_url: https://example.org
+comments: true
 
 location: Webinar
 address:

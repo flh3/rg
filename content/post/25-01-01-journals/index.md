@@ -3,6 +3,7 @@ title: Where to publish?
 date: 2025-01-01
 image:
   focal_point: 'top'
+comments: true
 ---
 
 School community, climate, and culture research spans academic disciplines. So which academic journals publish work on these topics? We conducted a scan of peer-reviewed publications in journals with impact factors with "school climate" in the title from the past three years (2019 until present) on Education Resources Information Center (ERIC). The following 26 journals with impact factors all published at least one article with "school climate" in the title during this period:

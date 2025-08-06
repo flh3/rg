@@ -3,6 +3,7 @@ title: Paper and round table presentations at AERA 2025
 date: 2025-04-24
 image:
   focal_point: 'top'
+comments: true
 ---
 
 We had quite a number of excellent paper and round table sessions at AERA 2025! 

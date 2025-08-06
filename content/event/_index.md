@@ -1,6 +1,7 @@
 ---
 title: Recent & Upcoming Events
 
+
 # Listing view
 view: compact
 
@@ -8,4 +9,5 @@ view: compact
 banner:
   caption: ''
   image: ''
+comments: true
 ---
