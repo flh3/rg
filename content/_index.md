@@ -13,7 +13,7 @@ sections:
       text: |
         <br>
         <h3>
-        The <a href = 'https://www.aera.net'>AERA</a> School Community, Climate, and Culture (SC3) Special Interest Group (AERA SIG #104) was established in 1994. The purpose of the SIG is to disseminate research on school community, climate, and culture and to provide a venue for the research collaboration of its members. </h3>
+        The <a href = 'https://www.aera.net'>AERA</a> School Community, Climate, and Culture (SC3) Special Interest Group (<a href = 'https://www.aera.net/SIG104/School-Community-Climate-and-Culture-SIG-104'>AERA SIG #104</a>) was established in 1994. The purpose of the SIG is to disseminate research on school community, climate, and culture and to provide a venue for the research collaboration of its members. </h3>
   
   - block: collection
     content:
