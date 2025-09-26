@@ -14,7 +14,7 @@ address:
   country: United States
 
 summary: SC3 Webinar.
-abstract: 'The School Community, Culture, and Climate (S3C) Special Interest Group is excited to announce that we will be hosting a webinar on behavioral threat assessment. Did you know that a National Center for Education Statistics survey found that 85% of US public K-12 schools report that they have a threat assessment team? Behavioral threat assessment and management has become a widely used violence prevention strategy in U.S. schools. This presentation will answer four questions: (1) What is behavioral threat assessment? (2) Why do we need it? (3) How does it work? and (4) How do we know it works?'
+abstract: 'The School Community, Culture, and Climate (S3C) Special Interest Group (SIG) is excited to announce that we will be hosting a webinar on behavioral threat assessment. Did you know that a National Center for Education Statistics survey found that 85% of US public K-12 schools report that they have a threat assessment team? Behavioral threat assessment and management has become a widely used violence prevention strategy in U.S. schools. This presentation will answer four questions: (1) What is behavioral threat assessment? (2) Why do we need it? (3) How does it work? and (4) How do we know it works?'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
