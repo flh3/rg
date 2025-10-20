@@ -37,7 +37,7 @@ image:
 
 url_code: ''
 url_pdf: ''
-url_slides: ''
+url_slides: 'Overview of CSTAG for AERA SIG 10-17-25.pdf'
 url_video: ''
 
 # Markdown Slides (optional).
@@ -54,6 +54,13 @@ slides:
 #   Otherwise, set `projects = []`.
 projects:
 ---
+
+The video can be viewed here:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NkmqWW2yg-g?si=t4X8O6zGUuJEkmM9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 
 Dewey Cornell is the Virgil S. Ward Professor of Education at the School of Education and Human Development at the University of Virginia. Dr. Cornell is a forensic clinical psychologist, the director of the Virginia Youth Violence Project, and a faculty associate of the Institute of Law, Psychiatry, and Public Policy. During his clinical and academic career, Cornell has worked with juvenile and adult violent offenders, testified in criminal proceedings and legislative hearings, and consulted on violence prevention efforts. He has authored more than 300 publications in psychology and education, including studies of juvenile homicide, school safety, bullying, and threat assessment. He is the principal author of the Comprehensive School Threat Assessment Guidelines, which is an evidence-based model of school threat assessment used in schools across the United States and Canada.
 
