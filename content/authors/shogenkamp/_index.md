@@ -61,3 +61,4 @@ user_groups:
   - SIGLeadership
 ---
 
+Sawyer completed an M.Ed. in Human Development and Psychology at Harvard University. He also holds a M.Ed. and B.Ed. from Queen’s University, and B.A. from University of Waterloo, majoring in Music, and Human Geography & Environmental Management. He is pursuing a PhD to further the study of relational youth violence and school climate to encompass under-supervised contexts within and outside of school grounds, such as in neighborhoods, virtual spaces, or on school buses.
