@@ -1,5 +1,5 @@
 ---
-title: 2026 SC3 Dissertation Award Winner
+title: 2026 SC3 Dissertation Award 
 date: 2025-11-19
 comments: true
 ---
