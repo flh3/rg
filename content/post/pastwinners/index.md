@@ -11,6 +11,11 @@ Dissertation prize winners awarded by the SIG from 2017.
 
 <!--more-->
 
+<center> 2026 </center>
+
+- Lakhvir Kaur, University of California, Santa Barbara. Dissertation title: *"Cultural Congruity and School Climate: A Cross-Cultural Validation of the School Cultural Congruity Scale (SCCS)"*
+
+
 <center> 2025 </center>
 
 - Kate Watson, University of California, Los Angeles. Dissertation title: *"Social Worker Perceptions of Trauma-Informed Schools: A Multistudy, Mixed Method Analsis of School Practices, Policies, and Climate"*
